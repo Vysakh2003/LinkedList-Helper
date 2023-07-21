@@ -4,8 +4,8 @@ This Python script defines classes and functions to create various types of link
 
 ✔️ Functions to create different types of linked lists:
   
-    ##-👉 singly_linkedlist: Creates a singly linked list from an input array.
-    ##-👉 circular_singly_linkedlist: Creates a circular singly linked list from an input array.
+    -👉 # singly_linkedlist: Creates a singly linked list from an input array.
+    -👉 circular_singly_linkedlist: Creates a circular singly linked list from an input array.
     -👉 doubly_linkedlist: Creates a doubly linked list from an input array.
     -👉 circular_doubly_linkedlist: Creates a circular doubly linked list from an input array.
     -👉 display_linkedlist function: This function displays the elements of a singly or doubly linked list by traversing through the linked list and printing the node values.
