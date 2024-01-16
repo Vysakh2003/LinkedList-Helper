@@ -9,6 +9,12 @@ Functions to create different types of linked lists:
   -✔️ ******doubly_linkedlist****** : Creates a doubly linked list from an input array.<br>
   -✔️ ******circular_doubly_linkedlist****** : Creates a circular doubly linked list from an input array.<br>
   -✔️ ******display_linkedlist****** : This function displays the elements of a singly or doubly linked list by traversing through the linked list and printing the node values.<br>
-  -✔️ ******display_circular_linkedlist****** : This function displays the elements of a circular linked list. It traverses through the circular linked list, printing the node values until it reaches the starting node again.<br>
+  -✔️ ******lpush(head, value, is_circular=False, is_doubly=False)****** : Helps to push the element at the last position in the linked list.<br>
+  -✔️ ******lpop(head, value, is_circular=False, is_doubly=False)****** : Helps to pop the last node element from the linked list.<br>
+  -✔️ ******ldelete(head, value, is_circular=False, is_doubly=False)****** : Helps to delete a particular node element from the linked list.<br>
+  -✔️ ******lsort(head, is_circular=False, is_doubly=False, is_reverse=False)****** : Helps to sort the linked list either in ascending or descending order.<br>
+  -✔️ ******lreverse(head, is_circular=False, is_doubly=False)****** :  Helps to reverse the complete linked list.<br>
+  -✔️ ******lfind(head, value)****** : Helps to find the node in the linked list and returns the index value.<br>
+  -✔️ ******ldrop(head)****** : Helps to delete the complete linked list.<br>
 
 By using this script, you can quickly create different types of linked lists in your Python projects, making the code more modular and concise.
